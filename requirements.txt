@@ -1,0 +1,19 @@
+streamlit>=1.35
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.4
+joblib>=1.4
+regex>=2024.5.15
+requests>=2.32
+tqdm>=4.66
+openai>=1.0
+
+# Transformer (highest accuracy option)
+transformers>=4.41
+datasets>=2.19
+evaluate>=0.4
+accelerate>=0.33
+torch>=2.2
+
+flask>=3.0
+waitress>=3.0
